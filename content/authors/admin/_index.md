@@ -47,6 +47,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chan-min-hsu-569303203/
+ - icon: cv
+   icon_pack: ai
+   link: uploads/CV_2021Fall.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
