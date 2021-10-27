@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: r07945010@ntu.edu.tw
+  link: mailto:r07945010@ntu.edu.tw
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com.tw/citations?hl=zh-TW&view_op=list_works&gmla=AJsN-F4raC49ofe1U6Zh91j1gX56Vp1tn8pxLxULxw0GSKo61x99z3vKlox9S0grJbZVheFTv1_Ajvdcqvu4wtUQ3e1FujF41TLHC-dqylBENXyyK9bBYaQ&user=bUmZJW8AAAAJ
