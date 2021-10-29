@@ -9,25 +9,26 @@ role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National Taiwan University
-  url: [https://www.ntu.edu.tw/]
+- name: Multimodeal Medical Imaging Optimization Lab at NTU
+  url: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focus on biomedical image segmentation using deep learning techniques. 
 
 # Interests to show in About widget
-interests:
-- Deep Learning in Biomedical Imaging
-- Microscopy Imaging
+Highlights:
+- biomedical microscopy and magnetic resonance imaging (MRI)
+- deep learning for image segmentation
+- confocal microscopy imaging and biomedical data collection
 
 # Education to show in About widget
 education:
   courses:
-  - course: M.S. in Graduate Institute of Biomedical Electronics and Bioinformatics
-    institution: National Taiwan University 
+  - course: M.S. in Graduate Institute of Biomedical Electronics and Bioinformatics (BEBI)
+    institution: National Taiwan University (NTU)
     year: 2020
-  - course: B.S. in Electrical Engineering
-    institution: National Taiwan University
+  - course: B.S. in Electrical Engineering (EE)
+    institution: National Taiwan University (NTU)
     year: 2018
 
 # Social/Academic Networking
@@ -64,6 +65,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+I am Chan-Min Hsu, a research assistant at [Multimodeal Medical Imaging Optimization Lab](https://sites.google.com/view/mmio-lab)
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
