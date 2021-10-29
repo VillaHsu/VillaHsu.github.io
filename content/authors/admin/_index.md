@@ -17,9 +17,9 @@ bio: My research focus on biomedical image segmentation using deep learning tech
 
 # Interests to show in About widget
 Interests:
-- biomedical microscopy and magnetic resonance imaging (MRI)
-- deep learning for image segmentation
-- confocal microscopy imaging and biomedical data collection
+- biomedical microscopy and MRI
+- Deep learning
+- Confocal microscopy imaging and biomedical data collection
 
 # Education to show in About widget
 education:
@@ -66,8 +66,10 @@ email: ""
 highlight_name: true
 ---
 
-I am **Chan-Min Hsu**, a research assistant at [Multimodeal Medical Imaging Optimization Lab](https://sites.google.com/view/mmio-lab), where I work with [Prof. Kevin T. Chen](http://bme.ntu.edu.tw/english/introduction/faculty/faculty_KevinTChen.php)
+I am **Chan-Min Hsu**, a research assistant at [Multimodal Medical Imaging Optimization Lab](https://sites.google.com/view/mmio-lab), where I work with [Prof. Kevin T. Chen](http://bme.ntu.edu.tw/english/introduction/faculty/faculty_KevinTChen.php)
 
 My research interest focus on the deep learning technique for computer vision. Particularly, I aim to improve the segmentation performance on biomedical images and magnetic resonance imaging (MRI) in several ways.
 
-Previously, I received a M.S. degree in BEBI and a B.S. degree in EE after graduating from National Taiwan University (NTU). My master thesis is [Mitochondrial Structure Prediction in Label-free Microscopy Images Using Convolutional Neural Networks](https://villahsu.github.io/Resume/Publication/MasterThesis_ChanMinHsu.pdf), advised by [Prof. An-Chi Wei](https://ntubmse.com/people/). I also collaborated with [Prof. Megan Y.P. HO](http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/79-prof-yi-ping-ho) at Chinese University of Hong Kong (CUHK) as a visiting research student. I received the NTU Presidential Award for top 5% in Fall'17, Government Special Education Scholarship in Fall'16 - Spring'17, Fall'18 - Spring'19.
+Previously, I received a M.S. degree in BEBI and a B.S. degree in EE after graduating from National Taiwan University (NTU). My master thesis is [Mitochondrial Structure Prediction in Label-free Microscopy Images Using Convolutional Neural Networks](https://villahsu.github.io/Resume/Publication/MasterThesis_ChanMinHsu.pdf), advised by [Prof. An-Chi Wei](https://ntubmse.com/people/). I also collaborated with [Prof. Megan Y.P. HO](http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/79-prof-yi-ping-ho) at Chinese University of Hong Kong (CUHK) as a visiting research student. 
+
+I received the NTU Presidential Award for top 5% in Fall'17, Government Special Education Scholarship in Fall'16 - Spring'17, Fall'18 - Spring'19.
