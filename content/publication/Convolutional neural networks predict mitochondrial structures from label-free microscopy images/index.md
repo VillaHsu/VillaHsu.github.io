@@ -35,7 +35,7 @@ abstract: Convolutional neural networks (CNNs) have shown significant success in
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin #tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [mitochondria structure, Deep Learning, 3D fluorescence image]
+tags: [Mitochondria Structure, Deep Learning, 3D Fluorescence Image]
 
 # Display this page in the Featured widget?
 featured: true
@@ -77,12 +77,12 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
