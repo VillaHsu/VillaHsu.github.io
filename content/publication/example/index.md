@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://avno1.playno1.com/forbid.htm'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,8 +66,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
-#- example
+projects:
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
