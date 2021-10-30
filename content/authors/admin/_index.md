@@ -66,7 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-I am **Chan-Min Hsu**, a research assistant at [Multimodal Medical Imaging Optimization Lab](https://sites.google.com/view/mmio-lab), where I work with [Prof. Kevin T. Chen](http://bme.ntu.edu.tw/english/introduction/faculty/faculty_KevinTChen.php)
+I am **Chan-Min Hsu**, a research assistant at [Multimodal Medical Imaging Optimization Lab](https://sites.google.com/view/mmio-lab), where I work with [Prof. Kevin T. Chen](http://bme.ntu.edu.tw/english/introduction/faculty/faculty_KevinTChen.php).
 
 My research interest focus on the deep learning technique for computer vision. Particularly, I aim to improve the segmentation performance on biomedical images and magnetic resonance imaging (MRI) in several ways.
 
