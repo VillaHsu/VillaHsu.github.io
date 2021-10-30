@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'http://avno1.playno1.com/forbid.htm'
 url_code: ''
 url_dataset: ''
 url_poster: ''
