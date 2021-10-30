@@ -35,7 +35,7 @@ abstract: Convolutional neural networks (CNNs) have shown significant success in
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin #tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [mitochondria structure, Deep Learning, 3D fluorescence image]
+tags: [mitochondria structure, 3D fluorescence image]
 
 # Display this page in the Featured widget?
 featured: true
