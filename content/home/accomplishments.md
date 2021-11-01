@@ -31,6 +31,7 @@ item:
   organization_url: https://web.ee.ntu.edu.tw/
   title: Dean's list
   url: ""
+  weight: 10
 - certificate_url: 
   date_end: "2017-06-30"
   date_start: "2016-09-01"
