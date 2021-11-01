@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: "2018-01-31"
   date_start: "2017-09-01"
-  description: "Fall 2017"
+  description: ""
   organization: Electrical Engineering, National Taiwan University (NTUEE)
   organization_url: https://web.ee.ntu.edu.tw/
   title: Dean's list
@@ -34,7 +34,7 @@ item:
 - certificate_url: 
   date_end: "2017-06-30"
   date_start: "2016-09-01"
-  description: "Fall 2016 - Spring 2017"
+  description: ""
   organization: 
   organization_url: 
   title: Government Special Education Scholarship
@@ -42,7 +42,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-03-01"
-  description: "Out of 50 teams"
+  description: ""
   organization: MakeNTU 2019
   organization_url: 
   title: Cathay Financial Holdings Enterprise Award
@@ -50,7 +50,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2017-02-01"
-  description: "Out of 50 teams"
+  description: ""
   organization: MakeNTU 2017
   organization_url: 
   title: MediaTek Inc Enterprise Award
@@ -58,12 +58,12 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2015-05-20"
-  description: "2015 NTU Physics Creative Competition of General Physics Experiment"
-  organization: Physics, National Taiwan University
+  description: ""
+  organization: 2015 NTU Physics Creative Competition of General Physics Experiment (Physics, National Taiwan University)
   organization_url: 
   title: '1st Place'
   url: ""
 
 design:
-  columns: '2' 
+  columns: '1' 
 ---
