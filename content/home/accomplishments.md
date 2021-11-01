@@ -26,28 +26,44 @@ item:
 - certificate_url: 
   date_end: "2018-01-31"
   date_start: "2017-09-01"
-  description: ""
+  description: "Fall 2017"
   organization: Electrical Engineering, National Taiwan University (NTUEE)
   organization_url: https://web.ee.ntu.edu.tw/
   title: Dean's list
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: ""
+  description: "Fall 2016 - Spring 2017"
+  organization: ""
+  organization_url: ""
+  title: Government Special Education Scholarship
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2019-03-01"
+  description: "Out of 50 teams"
+  organization: MakeNTU 2019
+  organization_url: ""
+  title: Cathay Financial Holdings Enterprise Award
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2017-02-01"
+  description: "Out of 50 teams"
+  organization: MakeNTU 2017
+  organization_url: ""
+  title: MediaTek Inc Enterprise Award
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2015-05-20"
+  description: "2015 NTU Physics Creative Competition of General Physics Experiment"
+  organization: Physics, National Taiwan University
+  organization_url: ""
+  title: '1st Place'
   url: ""
 
 design:
-  columns: '2' 
+  columns: '1' 
 ---
