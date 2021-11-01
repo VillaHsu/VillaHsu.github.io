@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 
 date: "2019-08-25T00:00:00Z"
-doi: "https://www.csie.ntu.edu.tw/~fuh/personal/FasterFaceChangingTech.pdf"
+#doi: "https://www.csie.ntu.edu.tw/~fuh/personal/FasterFaceChangingTech.pdf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
