@@ -32,11 +32,11 @@ item:
   title: Dean's list
   url: ""
 - certificate_url: 
-  date_end: ""
-  date_start: ""
+  date_end: "2017-06-30"
+  date_start: "2016-09-01"
   description: "Fall 2016 - Spring 2017"
-  organization: ""
-  organization_url: ""
+  organization: 
+  organization_url: 
   title: Government Special Education Scholarship
   url: ""
 - certificate_url: 
@@ -44,7 +44,7 @@ item:
   date_start: "2019-03-01"
   description: "Out of 50 teams"
   organization: MakeNTU 2019
-  organization_url: ""
+  organization_url: 
   title: Cathay Financial Holdings Enterprise Award
   url: ""
 - certificate_url: 
@@ -52,7 +52,7 @@ item:
   date_start: "2017-02-01"
   description: "Out of 50 teams"
   organization: MakeNTU 2017
-  organization_url: ""
+  organization_url: 
   title: MediaTek Inc Enterprise Award
   url: ""
 - certificate_url: 
@@ -60,10 +60,10 @@ item:
   date_start: "2015-05-20"
   description: "2015 NTU Physics Creative Competition of General Physics Experiment"
   organization: Physics, National Taiwan University
-  organization_url: ""
+  organization_url: 
   title: '1st Place'
   url: ""
 
 design:
-  columns: '1' 
+  columns: '2' 
 ---
