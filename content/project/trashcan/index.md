@@ -1,5 +1,5 @@
 ---
-title: Intelligent trash can
+title: Intelligent Trash Can
 summary: Bulit a trash can which can detect the current capacity itself.
 tags:
 - Arduino
