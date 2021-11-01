@@ -40,6 +40,7 @@ item:
   organization_url: 
   title: Government Special Education Scholarship
   url: ""
+  weight: 20
 - certificate_url: 
   date_end: ""
   date_start: "2019-03-01"
@@ -48,6 +49,7 @@ item:
   organization_url: 
   title: Cathay Financial Holdings Enterprise Award
   url: ""
+  weight: 30
 - certificate_url: 
   date_end: ""
   date_start: "2017-02-01"
@@ -56,6 +58,7 @@ item:
   organization_url: 
   title: MediaTek Inc Enterprise Award
   url: ""
+  weight: 40
 - certificate_url: 
   date_end: ""
   date_start: "2015-05-20"
@@ -64,6 +67,7 @@ item:
   organization_url: 
   title: '1st Place'
   url: ""
+  weight: 50
 
 design:
   columns: '1' 
