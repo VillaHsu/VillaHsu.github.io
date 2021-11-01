@@ -41,14 +41,12 @@ tags: [Mitochondria Structure, Deep Learning, 3D Fluorescence Image]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
 links:
 - name: Code
-  url_code: 'https://github.com/VillaHsu/Unet_Mito'
+  url: 'https://github.com/VillaHsu/Unet_Mito'
+
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
