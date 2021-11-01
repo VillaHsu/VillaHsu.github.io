@@ -1,21 +1,21 @@
 ---
-title: "Convolutional neural networks predict mitochondrial structures from label-free microscopy images"
+title: "FASTER FACE CHANGING TECH"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Cheng-You Lee
 - admin
-- Yi-Ju Lee
-- An-Chi Wei
+- Chiou-Shann Fuh
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-04-20T00:00:00Z"
-doi: "https://doi.org/10.1117/12.2591089"
+date: "2019-08-25T00:00:00Z"
+doi: "https://www.csie.ntu.edu.tw/~fuh/personal/FasterFaceChangingTech.pdf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
