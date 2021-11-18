@@ -72,4 +72,4 @@ My research interest focus on the deep learning technique for computer vision. P
 
 Previously, I received a M.S. degree in BEBI and a B.S. degree in EE after graduating from National Taiwan University (NTU). My master thesis is [Mitochondrial Structure Prediction in Label-free Microscopy Images Using Convolutional Neural Networks](https://villahsu.github.io/Resume/Publication/MasterThesis_ChanMinHsu.pdf), advised by [Prof. An-Chi Wei](https://ntubmse.com/people/). I also collaborated with [Prof. Megan Y.P. HO](http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/79-prof-yi-ping-ho) at Chinese University of Hong Kong (CUHK) as a visiting research student, and with [Dr. Yu Tsao](https://www.citi.sinica.edu.tw/pages/yu.tsao/) at Academia Sinica as an intern. 
 
-I received the NTU Presidential Award for top 5% in Fall'17, Government Special Education Scholarship in Fall'16 - Spring'17, Fall'18 - Spring'19.
+I received the NTU Presidential Award for top 5% in Fall'17, Government Special Education Scholarship in Fall'16 - Spring'17, Fall'17 - Spring'18.
