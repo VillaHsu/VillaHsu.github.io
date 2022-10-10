@@ -11,7 +11,7 @@ jobs:
     env:
       HUGO_BASEURL: 'https://sosiristseng.github.io/template-hugo-academic/'
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.1.0
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
